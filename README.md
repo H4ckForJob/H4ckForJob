@@ -18,11 +18,23 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H4ckForJob)](https://github.com/anuraghazra/github-readme-stats)
 - 🚶 How many visitors do I have?
   - ![](https://visitor-badge.glitch.me/badge?page_id=H4ckForJob.H4ckForJob)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...💩
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about nothing!
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on bytedance.
+- 🌱 I’m currently learning web backend development.
+- 👯 I’m looking to collaborate on 🏠
+
+```python
+def LookingFor(🤔):
+    return 'YoU'
+
+def Issue(💬):
+    return 'Ask me about everything!'
+
+def Contact(📫):
+    return 'xxlin.ujs@qq.com'
+
+def Pronouns(😄):
+    pass
+    
+def FunFact(⚡️):
+    pass
+```
