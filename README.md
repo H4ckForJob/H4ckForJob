@@ -30,7 +30,7 @@ def Issue(💬):
     return 'Ask me about everything!'
 
 def Contact(📫):
-    return 'xxlin.ujs@qq.com'
+    return '***@**.com'
 
 def Pronouns(😄):
     pass
